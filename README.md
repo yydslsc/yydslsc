@@ -1,4 +1,8 @@
 ## Hi there 👋
+:blush: FelixLiu
+:heart_eyes: 目标是成为一名:前端开发工程师
+![yydslsc](https://count.getloli.com/@yydslsc?theme=booru-koe)
+
 
 <!--
 **yydslsc/yydslsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
