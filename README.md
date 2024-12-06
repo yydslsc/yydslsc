@@ -3,11 +3,17 @@
 
 :heart_eyes: 目标是成为一名:前端开发工程师
 
-![yydslsc](https://count.getloli.com/@yydslsc?theme=booru-koe)
+🌍 city: QY 
+
+⚙️ Technology Stack: .ts, .js, .html, .css, .vue, .java
+
+💅 Introduce:Practice is the sole criterion for testing truth
+
+💬 Start:Welcome everyone to start my project
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yydslsc)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yydslsc)
+![yydslsc](https://count.getloli.com/@yydslsc?theme=booru-koe)
 
 
 
