@@ -3,15 +3,17 @@
 
 :heart_eyes: 目标是成为一名:前端开发工程师
 
-🌍 city: QY 
+🌍 City: QY 
 
-⚙️ Technology Stack: .ts, .js, .html, .css, .vue, .java
+⚙️ Technology Stack: vue3 react
 
 💅 Introduce:Practice is the sole criterion for testing truth
 
 💬 Start:Welcome everyone to start my project
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yydslsc)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yydslsc&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![yydslsc](https://count.getloli.com/@yydslsc?theme=booru-koe)
 
